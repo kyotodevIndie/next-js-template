@@ -3,15 +3,13 @@
     <img src="https://lh3.googleusercontent.com/pw/ACtC-3f4cqu64AQe5Cujq7ATD7h0k4wPuexdrt0T_WXZVMxUP3yG00PEs-4xe3whxLCsEehn_K22HEy2aoqzF92RIVgm18iloayyzfhbkinwaHhQkuaKgOhS6YxhBcYYIKcbzRbjGFzGG1FUWzJ3EzecuQc0=w54-h61-no?authuser=0" alt="Logo" width="95" height="100">
   </a>
 </p>
-  <h1 align="center">Hero</h1><p align="center">the Anime Catalog</p>
+  <h1 align="center">Next js Repo Template</h1><p align="center">template with many things already done to speed up the start of your project with Next.js</p>
   
   <p align="center">
-    Hero is a project that brings an anime catalog for Asian animation enthusiasts, shows detailed information about all the anime cataloged in the <a href="https://kitsu.docs.apiary.io/#introduction/json:api">Kitsu API</a>!
+    *Description*
     <br />
-    <a href="https://anime-catalog-hero.vercel.app/">View Demo</a>
+    <a href="#">View Demo</a>
 </p>
-
-<!-- Prints -->
 
 ### Packages
 
@@ -52,8 +50,6 @@ npm run dev
 
 6. Happy coding!
 
-<!-- CONTRIBUTING -->
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -63,8 +59,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<!-- LICENSE -->
 
 ## License
 
@@ -76,3 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
     thank a lot guys! if you liked it, give a star!
    </p> 
    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
+   
+   <p align="center">
+      Made with ❤ by <a href="https://github.com/kyotodevindie">Kyoto</a>
+  </p>
