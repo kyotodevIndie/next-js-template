@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber API" src="https://nextjs.org/" />
+    <img alt="logo" src="https://nextjs.org/" />
     <br>
     A Next.js template
 </h1>
