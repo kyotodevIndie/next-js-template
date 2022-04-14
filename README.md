@@ -17,8 +17,9 @@
 
 - [React](https://pt-br.reactjs.org/)
 - [Next](https://nextjs.org/)
-- [Ant Design](https://ant.design/)
-- [Less Css](http://lesscss.org/)
+- [Sass](https://sass-lang.com/)
+- [Aixios](https://axios-http.com/ptbr/docs/intro)
+- [react-particles-js](react-particles-js)
 
 ### Installation
 
@@ -72,6 +73,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Thank you!
 
    <p> 
-    thank you for your patience to read this far! if possible, give a star!
+    thank a lot guys! if you liked it, give a star!
    </p> 
    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
