@@ -1,68 +1,77 @@
-<h1 align="center">
-    <img alt="logo" src="https://nextjs.org/" />
-    <br>
-    A Next.js template
-</h1>
-
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/bancointer.svg">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/bancointer.svg">
-  <a href="https://github.com/lukemorales/bancointer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/bancointer.svg">
-  </a>
-
-  <a href="https://github.com/lukemorales/bancointer/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/bancointer.svg">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/bancointer.svg">
-</p>
-
-<h4 align="center">
-  This is a new version of Banco Inter's Internet Banking inspired by <a href="https://www.linkedin.com/in/vtifoski/">Vinícius Tifoski</a>'s redesign to match the 2020 mobile interface.
-</h4>
-
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
-<p align="center">
-  <a href="https://bancointer-redesign.netlify.app" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png">
+ <a href="https://github.com/kyotodevindie">
+    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f4cqu64AQe5Cujq7ATD7h0k4wPuexdrt0T_WXZVMxUP3yG00PEs-4xe3whxLCsEehn_K22HEy2aoqzF92RIVgm18iloayyzfhbkinwaHhQkuaKgOhS6YxhBcYYIKcbzRbjGFzGG1FUWzJ3EzecuQc0=w54-h61-no?authuser=0" alt="Logo" width="95" height="100">
   </a>
 </p>
+  <h1 align="center">Hero</h1><p align="center">the Anime Catalog</p>
+  
+  <p align="center">
+    Hero is a project that brings an anime catalog for Asian animation enthusiasts, shows detailed information about all the anime cataloged in the <a href="https://kitsu.docs.apiary.io/#introduction/json:api">Kitsu API</a>!
+    <br />
+    <a href="https://anime-catalog-hero.vercel.app/">View Demo</a>
+</p>
 
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1599784304/readme_logos/bancointer-preview_resa83.png)
+<!-- Prints -->
 
+### Packages
 
-## :rocket: Technologies
+- [React](https://pt-br.reactjs.org/)
+- [Next](https://nextjs.org/)
+- [Ant Design](https://ant.design/)
+- [Less Css](http://lesscss.org/)
 
-This project was developed live at [twitch.tv/lukemoralestv](https://www.twitch.tv/lukemoralestv) with the following technologies:
+### Installation
 
-- [ReactJS](https://reactjs.org/)
-- [Typescript][ts]
-- [react-router-dom](https://github.com/ReactTraining/react-router)
-- [styled-components](https://www.styled-components.com/)
-- [framer-motion](https://www.framer.com/motion/)
-- [nivo](https://nivo.rocks)
-- [polished](https://polished.js.org)
-- [date-fns](https://date-fns.org/)
-- [Faker.js](https://github.com/marak/Faker.js/)
-- [VS Code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+1. Clone the repo
 
-## :memo: License
+```sh
+git clone https://github.com/kyotodevIndie/next-js-template.git
+```
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/bancointer/blob/master/LICENSE) for more information.
+3. Install the packages using NPM or Yarn
 
----
+```sh
+yarn
+```
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+```sh
+npm install
+```
+4. run the project
 
-[ts]: https://www.typescriptlang.org
-[vscode]: https://code.visualstudio.com/
-[yarn]: https://yarnpkg.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+```sh
+yarn dev
+```
 
+```sh
+npm run dev
+```
+
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+6. Happy coding!
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Thank you!
+
+   <p> 
+    thank you for your patience to read this far! if possible, give a star!
+   </p> 
+   <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
