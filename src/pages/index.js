@@ -1,7 +1,12 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/pages/home.module.sass'
+import Particle from 'react-particles-js'
+import particlesConfig from '../assets/particlesConfig.json'
 
 export default function Home() {
-  return <div className={styles.container}></div>
+  return (
+    <div className={styles.hero}>
+      <Particle params={particlesConfig} className="App-particles__container" />
+      <p className={styles.hero__text}>Ad Astra Abyssosque Traveler!</p>
+    </div>
+  )
 }
