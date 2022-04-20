@@ -16,7 +16,7 @@
 - [React](https://pt-br.reactjs.org/)
 - [Next](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
-- [Aixios](https://axios-http.com/ptbr/docs/intro)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 - [react-particles-js](react-particles-js)
 
 ### Installation
