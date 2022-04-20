@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.hero}>
       <Particle params={particlesConfig} className="App-particles__container" />
-      <p className={styles.hero__text}>Ad Astra Abyssosque Traveler!</p>
+      <p className={styles.hero__text}>Ad Astra Et Aeternitatem Traveler!</p>
     </div>
   )
 }
